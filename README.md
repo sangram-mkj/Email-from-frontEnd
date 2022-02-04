@@ -1,6 +1,6 @@
 # Email-from-frontEnd
 
-Integrate this with your contact form box to get message from your website visitor via email.
+Integrate this with your contact form to get message from your website visitor via email.
 
 You can get the mail to any email id you want.
 
